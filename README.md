@@ -1,8 +1,6 @@
 # Subin
 
----
-
-🎓 Master’s student at Human Interface Systems Lab, Seoul National University  
+--- 
 🧠 Skills: Natural Language Processing (NLP), Machine Learning, Data Science, Software Development  
 🖥️ Programming Languages: Python, JavaScript, HTML, CSS, C#, Java, SQL
 🎨 Frontend & App Development: React, Swift  
